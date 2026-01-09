@@ -1,0 +1,318 @@
+[
+  {
+    "id": "10001",
+    "date": "2026-01-02T09:15:00Z",
+    "status": "processing",
+    "customer": {
+      "name": "Ivan Petrenko",
+      "email": "ivan.petrenko@example.com",
+      "phone": "+380631234567",
+      "address": "Kyiv, Ukraine"
+    },
+    "items": [
+      { "id": "p1", "title": "Wireless Mouse", "qty": 1, "price": 1299 },
+      { "id": "p2", "title": "Keyboard", "qty": 1, "price": 1899 },
+      { "id": "p3", "title": "Notebook Set", "qty": 2, "price": 1071 }
+    ],
+    "total": 7340
+  },
+  {
+    "id": "10002",
+    "date": "2026-01-02T11:40:00Z",
+    "status": "new",
+    "customer": {
+      "name": "Olena Kovalenko",
+      "email": "olena.k@example.com",
+      "phone": "+380671234567",
+      "address": "Lviv, Ukraine"
+    },
+    "items": [
+      { "id": "p4", "title": "Office Chair Mat", "qty": 1, "price": 3450 },
+      { "id": "p5", "title": "Desk Lamp", "qty": 1, "price": 2999 },
+      { "id": "p6", "title": "Cable Organizer", "qty": 3, "price": 2000 }
+    ],
+    "total": 12450
+  },
+  {
+    "id": "10003",
+    "date": "2026-01-03T08:20:00Z",
+    "status": "delivered",
+    "customer": {
+      "name": "Andrii Shevchenko",
+      "email": "andrii.s@example.com",
+      "phone": "+380931234567",
+      "address": "Dnipro, Ukraine"
+    },
+    "items": [
+      { "id": "p7", "title": "USB Flash Drive 64GB", "qty": 2, "price": 899 },
+      { "id": "p8", "title": "Mouse Pad", "qty": 1, "price": 1101 }
+    ],
+    "total": 2899
+  },
+  {
+    "id": "10004",
+    "date": "2026-01-03T14:05:00Z",
+    "status": "shipped",
+    "customer": {
+      "name": "Mykola Hrytsenko",
+      "email": "mykola.g@example.com",
+      "phone": "+380661234567",
+      "address": "Poltava, Ukraine"
+    },
+    "items": [
+      { "id": "p9", "title": "Power Strip", "qty": 2, "price": 1800 },
+      { "id": "p10", "title": "Desk Organizer", "qty": 1, "price": 2000 }
+    ],
+    "total": 5600
+  },
+  {
+    "id": "10005",
+    "date": "2026-01-04T10:30:00Z",
+    "status": "cancelled",
+    "customer": {
+      "name": "Natalia Bondarenko",
+      "email": "natalia.b@example.com",
+      "phone": "+380951234567",
+      "address": "Kharkiv, Ukraine"
+    },
+    "items": [
+      { "id": "p11", "title": "Phone Stand", "qty": 1, "price": 999 }
+    ],
+    "total": 999
+  },
+  {
+    "id": "10006",
+    "date": "2026-01-04T16:45:00Z",
+    "status": "processing",
+    "customer": {
+      "name": "Dmytro Koval",
+      "email": "d.koval@example.com",
+      "phone": "+380991234567",
+      "address": "Vinnytsia, Ukraine"
+    },
+    "items": [
+      { "id": "p12", "title": "Wireless Keyboard", "qty": 1, "price": 5499 },
+      { "id": "p13", "title": "USB Hub", "qty": 1, "price": 2999 },
+      { "id": "p14", "title": "Cable Set", "qty": 1, "price": 6922 }
+    ],
+    "total": 15420
+  },
+  {
+    "id": "10007",
+    "date": "2026-01-05T09:10:00Z",
+    "status": "new",
+    "customer": {
+      "name": "Oksana Melnyk",
+      "email": "oksana.m@example.com",
+      "phone": "+380631112233",
+      "address": "Ternopil, Ukraine"
+    },
+    "items": [
+      { "id": "p15", "title": "Desk Lamp", "qty": 1, "price": 2200 },
+      { "id": "p16", "title": "Mouse Pad XL", "qty": 1, "price": 2180 }
+    ],
+    "total": 4380
+  },
+  {
+    "id": "10008",
+    "date": "2026-01-05T12:55:00Z",
+    "status": "shipped",
+    "customer": {
+      "name": "Serhii Tkachenko",
+      "email": "serhii.t@example.com",
+      "phone": "+380671998877",
+      "address": "Zaporizhzhia, Ukraine"
+    },
+    "items": [
+      { "id": "p17", "title": "Bluetooth Speaker", "qty": 1, "price": 4200 },
+      { "id": "p18", "title": "Power Bank", "qty": 1, "price": 3450 }
+    ],
+    "total": 7650
+  },
+
+  {
+    "id": "10009",
+    "date": "2026-01-06T10:05:00Z",
+    "status": "processing",
+    "customer": {
+      "name": "Iryna Danyliuk",
+      "email": "iryna.d@example.com",
+      "phone": "+380681234567",
+      "address": "Rivne, Ukraine"
+    },
+    "items": [
+      { "id": "p19", "title": "Webcam", "qty": 1, "price": 2190 }
+    ],
+    "total": 2190
+  },
+  {
+    "id": "10010",
+    "date": "2026-01-06T15:30:00Z",
+    "status": "delivered",
+    "customer": {
+      "name": "Oleksii Moroz",
+      "email": "oleksii.m@example.com",
+      "phone": "+380731234567",
+      "address": "Kyiv, Ukraine"
+    },
+    "items": [
+      { "id": "p20", "title": "Office Headset", "qty": 1, "price": 5200 },
+      { "id": "p21", "title": "Desk Mat", "qty": 1, "price": 3220 }
+    ],
+    "total": 8420
+  },
+  {
+    "id": "10011",
+    "date": "2026-01-07T09:00:00Z",
+    "status": "new",
+    "customer": {
+      "name": "Kateryna Romanenko",
+      "email": "kateryna.r@example.com",
+      "phone": "+380671234111",
+      "address": "Cherkasy, Ukraine"
+    },
+    "items": [
+      { "id": "p22", "title": "Wireless Charger", "qty": 1, "price": 2499 },
+      { "id": "p23", "title": "USB-C Cable", "qty": 2, "price": 5500 }
+    ],
+    "total": 13499
+  },
+  {
+    "id": "10012",
+    "date": "2026-01-07T13:20:00Z",
+    "status": "processing",
+    "customer": {
+      "name": "Viktor Sydorenko",
+      "email": "viktor.s@example.com",
+      "phone": "+380991111222",
+      "address": "Sumy, Ukraine"
+    },
+    "items": [
+      { "id": "p24", "title": "Document Folder", "qty": 3, "price": 1040 }
+    ],
+    "total": 3120
+  },
+  {
+    "id": "10013",
+    "date": "2026-01-08T10:15:00Z",
+    "status": "shipped",
+    "customer": {
+      "name": "Yuliia Pavlenko",
+      "email": "yuliia.p@example.com",
+      "phone": "+380731112233",
+      "address": "Zhytomyr, Ukraine"
+    },
+    "items": [
+      { "id": "p25", "title": "Desk Fan", "qty": 1, "price": 2890 },
+      { "id": "p26", "title": "Cable Organizer", "qty": 1, "price": 3000 }
+    ],
+    "total": 5890
+  },
+  {
+    "id": "10014",
+    "date": "2026-01-08T14:50:00Z",
+    "status": "processing",
+    "customer": {
+      "name": "Taras Holub",
+      "email": "taras.h@example.com",
+      "phone": "+380681998877",
+      "address": "Ivano-Frankivsk, Ukraine"
+    },
+    "items": [
+      { "id": "p27", "title": "External Hard Drive", "qty": 1, "price": 17400 }
+    ],
+    "total": 17400
+  },
+  {
+    "id": "10015",
+    "date": "2026-01-09T09:25:00Z",
+    "status": "delivered",
+    "customer": {
+      "name": "Anastasiia Klymenko",
+      "email": "anastasiia.k@example.com",
+      "phone": "+380501234567",
+      "address": "Odesa, Ukraine"
+    },
+    "items": [
+      { "id": "p28", "title": "Smart Plug", "qty": 2, "price": 2100 }
+    ],
+    "total": 4200
+  },
+  {
+    "id": "10016",
+    "date": "2026-01-09T11:45:00Z",
+    "status": "new",
+    "customer": {
+      "name": "Roman Bilyk",
+      "email": "roman.b@example.com",
+      "phone": "+380631222333",
+      "address": "Lutsk, Ukraine"
+    },
+    "items": [
+      { "id": "p29", "title": "Desk Clock", "qty": 1, "price": 2550 },
+      { "id": "p30", "title": "LED Light Strip", "qty": 1, "price": 4000 }
+    ],
+    "total": 6550
+  },
+  {
+    "id": "10017",
+    "date": "2026-01-10T10:00:00Z",
+    "status": "shipped",
+    "customer": {
+      "name": "Ihor Lysenko",
+      "email": "ihor.l@example.com",
+      "phone": "+380991234888",
+      "address": "Bila Tserkva, Ukraine"
+    },
+    "items": [
+      { "id": "p31", "title": "Office Printer", "qty": 1, "price": 9800 }
+    ],
+    "total": 9800
+  },
+  {
+    "id": "10018",
+    "date": "2026-01-10T15:15:00Z",
+    "status": "cancelled",
+    "customer": {
+      "name": "Svitlana Kovalchuk",
+      "email": "svitlana.k@example.com",
+      "phone": "+380681555444",
+      "address": "Khmelnytskyi, Ukraine"
+    },
+    "items": [
+      { "id": "p32", "title": "USB Desk Fan", "qty": 1, "price": 2999 }
+    ],
+    "total": 2999
+  },
+  {
+    "id": "10019",
+    "date": "2026-01-11T09:35:00Z",
+    "status": "processing",
+    "customer": {
+      "name": "Bohdan Kravets",
+      "email": "bohdan.k@example.com",
+      "phone": "+380671777666",
+      "address": "Uman, Ukraine"
+    },
+    "items": [
+      { "id": "p33", "title": "WiFi Router", "qty": 1, "price": 7250 },
+      { "id": "p34", "title": "Ethernet Cable", "qty": 2, "price": 2000 }
+    ],
+    "total": 11250
+  },
+  {
+    "id": "10020",
+    "date": "2026-01-11T13:10:00Z",
+    "status": "new",
+    "customer": {
+      "name": "Alina Chernenko",
+      "email": "alina.c@example.com",
+      "phone": "+380931999888",
+      "address": "Kyiv, Ukraine"
+    },
+    "items": [
+      { "id": "p35", "title": "Wireless Earbuds", "qty": 1, "price": 3780 }
+    ],
+    "total": 3780
+  }
+]

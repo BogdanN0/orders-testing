@@ -1,0 +1,22 @@
+[
+  { "id": "10001", "date": "2026-01-02T09:15:00Z", "customerName": "Ivan Petrenko", "total": 7340, "status": "processing" },
+  { "id": "10002", "date": "2026-01-02T11:40:00Z", "customerName": "Olena Kovalenko", "total": 12450, "status": "new" },
+  { "id": "10003", "date": "2026-01-03T08:20:00Z", "customerName": "Andrii Shevchenko", "total": 2899, "status": "delivered" },
+  { "id": "10004", "date": "2026-01-03T14:05:00Z", "customerName": "Mykola Hrytsenko", "total": 5600, "status": "shipped" },
+  { "id": "10005", "date": "2026-01-04T10:30:00Z", "customerName": "Natalia Bondarenko", "total": 999, "status": "cancelled" },
+  { "id": "10006", "date": "2026-01-04T16:45:00Z", "customerName": "Dmytro Koval", "total": 15420, "status": "processing" },
+  { "id": "10007", "date": "2026-01-05T09:10:00Z", "customerName": "Oksana Melnyk", "total": 4380, "status": "new" },
+  { "id": "10008", "date": "2026-01-05T12:55:00Z", "customerName": "Serhii Tkachenko", "total": 7650, "status": "shipped" },
+  { "id": "10009", "date": "2026-01-06T10:05:00Z", "customerName": "Iryna Danyliuk", "total": 2190, "status": "processing" },
+  { "id": "10010", "date": "2026-01-06T15:30:00Z", "customerName": "Oleksii Moroz", "total": 8420, "status": "delivered" },
+  { "id": "10011", "date": "2026-01-07T09:00:00Z", "customerName": "Kateryna Romanenko", "total": 13499, "status": "new" },
+  { "id": "10012", "date": "2026-01-07T13:20:00Z", "customerName": "Viktor Sydorenko", "total": 3120, "status": "processing" },
+  { "id": "10013", "date": "2026-01-08T10:15:00Z", "customerName": "Yuliia Pavlenko", "total": 5890, "status": "shipped" },
+  { "id": "10014", "date": "2026-01-08T14:50:00Z", "customerName": "Taras Holub", "total": 17400, "status": "processing" },
+  { "id": "10015", "date": "2026-01-09T09:25:00Z", "customerName": "Anastasiia Klymenko", "total": 4200, "status": "delivered" },
+  { "id": "10016", "date": "2026-01-09T11:45:00Z", "customerName": "Roman Bilyk", "total": 6550, "status": "new" },
+  { "id": "10017", "date": "2026-01-10T10:00:00Z", "customerName": "Ihor Lysenko", "total": 9800, "status": "shipped" },
+  { "id": "10018", "date": "2026-01-10T15:15:00Z", "customerName": "Svitlana Kovalchuk", "total": 2999, "status": "cancelled" },
+  { "id": "10019", "date": "2026-01-11T09:35:00Z", "customerName": "Bohdan Kravets", "total": 11250, "status": "processing" },
+  { "id": "10020", "date": "2026-01-11T13:10:00Z", "customerName": "Alina Chernenko", "total": 3780, "status": "new" }
+]
