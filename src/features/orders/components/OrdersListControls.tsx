@@ -214,7 +214,7 @@ export function OrdersListControls({
             </Select>
           </div>
 
-          <Button onClick={clear} type="button">
+          <Button onClick={clear} type="button" className="self-end">
             Reset
           </Button>
         </div>
